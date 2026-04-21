@@ -1,5 +1,4 @@
-## Hi, I'm Dawson
-- Undergrad in 
+## Hi
 
 <!--
 **dawsonmiller03/dawsonmiller03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
