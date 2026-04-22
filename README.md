@@ -25,9 +25,8 @@ A custom-built Multiple Object Tracking (MOT) paradigm designed to measure atten
 
 ## 🛠️ Technical Toolkit
 
-* **Programming:** R, Python, MATLAB.
+* **Programming:** R, Python, MATLAB, Javascript.
 * **Data & Stats:** SPSS, G*Power, Open Science Framework (OSF), GitHub.
-* **Languages:** English, Latin.
 
 ---
 
