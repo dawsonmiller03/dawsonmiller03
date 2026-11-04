@@ -1,4 +1,4 @@
-# Dawson Reed Miller
+# Dawson R. Miller
 **Aspiring Clinical Researcher | B.A. of Psychology**
 
 My primary research interest lies in psychophysics and multisensory integration—specifically, investigating the mechanisms of hallucinations and multisensory temporal processing to better understand the symptoms of schizophrenia.
