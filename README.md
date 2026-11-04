@@ -6,7 +6,7 @@ My primary research interest lies in psychophysics and multisensory integrationâ
 
 ## ðŸ”¬ Featured Research Projects
 
-### 1. [Multisensory MOT-Task Script](https://github.com/dawsonmiller03/MOT-task)
+### 1. [Multisensory MOT-Task Script](https://github.com/dawsonmiller03/MOT-Task-Psychtoolbox-MacOS)
 **Focus:** Psychophysical Scripting & Experimental Design  
 A custom-built Multiple Object Tracking (MOT) paradigm designed to measure attentional thresholds. This script automates stimulus presentation and records high-precision latency and accuracy data.
 * **Tools:** Psychtoolbox (MATLAB), Git.
@@ -16,7 +16,7 @@ A custom-built Multiple Object Tracking (MOT) paradigm designed to measure atten
 A double-blind experimental study investigating the effects of acute creatine monohydrate supplementation on visual-spatial attention and ATP resynthesis during high-demand tasks.
 * **Tools:** G*Power, R (lme4), MATLAB.
 
-### 3. [Urban Influence Analysis](https://github.com/dawsonmiller03/urban-influence-analysis)
+### 3. [Urban Influence Analysis](https://github.com/dawsonmiller03/Urban-Research-PSY-257)
 **Focus:** Data Science & Socio-Economic Modeling  
 Processed raw urban datasets to identify spatial correlations and socio-economic trends. Developed a robust R workflow for data cleaning and high-density heat map generation.
 * **Tools:** R (ggplot2, dplyr), R Markdown.
