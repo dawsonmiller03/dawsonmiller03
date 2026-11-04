@@ -1,7 +1,7 @@
 # Dawson Reed Miller
-**Aspiring Clinical Researcher | Senior at Gordon College**
+**Aspiring Clinical Researcher | B.A. of Psychology**
 
-I am a Psychology major and Data Science minor at Gordon College, driven by a commitment to clinical research. My primary research interest lies in psychophysics and multisensory integration—specifically, investigating the mechanisms of hallucinations and multisensory temporal processing to better understand the symptoms of schizophrenia.
+My primary research interest lies in psychophysics and multisensory integration—specifically, investigating the mechanisms of hallucinations and multisensory temporal processing to better understand the symptoms of schizophrenia.
 
 
 ## 🔬 Featured Research Projects
